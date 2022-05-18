@@ -21,5 +21,6 @@
 * [Build a Real-World dApp With React, Solidity, and Web3.js](https://betterprogramming.pub/blockchain-introduction-using-real-world-dapp-react-solidity-web3-js-546471419955) by Zafar Saleem
 * [Build a Verifiably Random Lottery Smart Contract on Ethereum](https://betterprogramming.pub/build-a-verifiably-random-lottery-smart-contract-on-ethereum-c1daacc1ca4e) by Alex Roan
 * [Write Your First Smart Contract Using Remix IDE](https://betterprogramming.pub/developing-a-smart-contract-by-using-remix-ide-81ff6f44ba2f) by Burakcan Ekici
+* [Preventing Smart Contract Attacks on Ethereum — Reentrancy attack](https://betterprogramming.pub/preventing-smart-contract-attacks-on-ethereum-a-code-analysis-bf95519b403a) by Abhishek Chauhan
 
 
